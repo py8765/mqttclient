@@ -1,0 +1,8 @@
+{
+    "name":"mqttclient",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "mqtt":"0.3.3"
+    }
+}
